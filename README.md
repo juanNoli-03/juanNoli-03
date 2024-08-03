@@ -59,11 +59,5 @@
  </table>
 
 <h2>📬 Conecta conmigo!</h2>
-
-<div id="user-content-toc">
-  <a href="https://www.linkedin.com/in/juan-manuel-noli?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3B22DU%2B02uQ7q4gA4uImPbHA%3D%3D" target="_blank">
-  <img src="https://img.shields.io/badge/linkedin-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin style="margin: 5px;"/>
-
-  <a href="juanmanuelnoli03@gmail.com" target="_blank">
-  <img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" style="margin: 5px;" />
-</div>
+<a href="https://www.linkedin.com/in/juan-manuel-noli/" target="_blank"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=LinkedIn&color=0A66C2&logo=LinkedIn&logoColor=FFFFFF&label="     
+alt="LinkedIn"/></a> <a href="juanmanuelnoli03@gmail.com" target="_blank"><img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" style="margin: 5px;"/></a>
