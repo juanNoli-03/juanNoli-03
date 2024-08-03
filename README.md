@@ -31,25 +31,39 @@
 - ⚡ **Fun Facts** : 🎾 ⚽ 🏋️‍♀️
 
 <h2>🛠 &nbsp;Tech Stack:</h2>
+  <table>
+    <tr>
+        <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Backend:</td>
+        <td><img height="40"src="https://skillicons.dev/icons?i=c,php,java,spring,maven,hibernate"/></td>
+    </tr>
+   <tr>
+        <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Frontend:</td>
+        <td><img height="40"src="https://skillicons.dev/icons?i=html,css,javascript,react,bootstrap,jquery"/></td>
+   </tr>
+   <tr>
+        <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Base de Datos:</td>
+        <td><img height="40"src="https://skillicons.dev/icons?i=mysql"/></td>
+   </tr>
+   <tr>
+        <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Control de Versiones:</td>
+        <td><img height="40"src="https://skillicons.dev/icons?i=git,github"/></td>
+   </tr>
+   <tr>
+        <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Ides:</td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=vscode,eclipse"/></td>
+    </tr>
+    <tr>
+        <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Otras herramientas:</td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=discord,blender"/></td>
+    </tr>
+ </table>
 
-   ![HTML5](https://img.shields.io/badge/HTML5%20-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-   ![CSS3](https://img.shields.io/badge/CSS%20-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-   ![JavaScript](https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
-   ![C](https://img.shields.io/badge/C%20-%232370ED.svg?style=for-the-badge&logo=c&logoColor=white)
-   
+<h2>📬 Conecta conmigo!</h2>
 
+<div id="user-content-toc">
+  <a href="https://www.linkedin.com/in/juan-manuel-noli?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3B22DU%2B02uQ7q4gA4uImPbHA%3D%3D" target="_blank">
+  <img src="https://img.shields.io/badge/linkedin-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin style="margin: 5px;"/>
 
-<!--
-**juanNoli-03/juanNoli-03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  <a href="juanmanuelnoli03@gmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" style="margin: 5px;" />
+</div>
