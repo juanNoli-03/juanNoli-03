@@ -33,7 +33,7 @@
 <h2>🛠 &nbsp;Tech Stack:</h2>
   <table>
     <tr>
-        <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Backend:</td>
+        <td padding-right: 10px; vertical-align: center; border: none;">Backend:</td>
         <td><img height="40"src="https://skillicons.dev/icons?i=c,php,java,spring,maven,hibernate"/></td>
     </tr>
    <tr>
