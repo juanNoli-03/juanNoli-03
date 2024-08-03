@@ -58,6 +58,6 @@
     </tr>
  </table>
 
-<h2>📬 Conecta conmigo!</h2>
+<h2>📬 Conecta conmigo:</h2>
 <a href="https://www.linkedin.com/in/juan-manuel-noli/" target="_blank"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=LinkedIn&color=0A66C2&logo=LinkedIn&logoColor=FFFFFF&label="     
 alt="LinkedIn"/></a> <a href="juanmanuelnoli03@gmail.com" target="_blank"><img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" style="margin: 5px;"/></a>
