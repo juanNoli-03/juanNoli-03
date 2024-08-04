@@ -33,27 +33,27 @@
 <h2>🛠 &nbsp;Tech Stack:</h2>
   <table>
     <tr>
-        <td padding-right: 10px; vertical-align: center; border: none;">Backend:</td>
+        <td><b>Backend:</b></td>
         <td><img height="40"src="https://skillicons.dev/icons?i=c,php,java,spring,maven,hibernate"/></td>
     </tr>
    <tr>
-        <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Frontend:</td>
+        <td><b>Frontend:</b></td>
         <td><img height="40"src="https://skillicons.dev/icons?i=html,css,javascript,react,bootstrap,jquery"/></td>
    </tr>
    <tr>
-        <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Base de Datos:</td>
+        <td><b>Base de Datos:</b></td>
         <td><img height="40"src="https://skillicons.dev/icons?i=mysql"/></td>
    </tr>
    <tr>
-        <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Control de Versiones:</td>
+        <td><b>Control de versiones:</b></td>
         <td><img height="40"src="https://skillicons.dev/icons?i=git,github"/></td>
    </tr>
    <tr>
-        <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Ides:</td>
+        <td><b>Ides:</b></td>
         <td><img height="40" src="https://skillicons.dev/icons?i=vscode,eclipse"/></td>
     </tr>
     <tr>
-        <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Otras herramientas:</td>
+        <td><b>Otras herramientas:</b></td>
         <td><img height="40" src="https://skillicons.dev/icons?i=discord,blender"/></td>
     </tr>
  </table>
