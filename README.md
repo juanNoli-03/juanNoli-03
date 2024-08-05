@@ -66,12 +66,12 @@
 
   <div>
       <p align="left">
-	      <a href=https://github.com/juanNoli-03/TrabajoPractico1-Digitalers>
+	<a href=https://github.com/juanNoli-03/TrabajoPractico1-Digitalers>
       	<img src="https://github-readme-stats.vercel.app/api/pin/?username=juanNoli-03&repo=TrabajoPractico1-Digitalers&theme=tokyonight" alt="GitHub Stats"/></a>
         <a href=https://github.com/juanNoli-03/TrabajoFinal-HTMLyCSS-Digitalers>
-      	<img src="https://github-readme-stats.vercel.app/api/pin/?username=juanNoli-03&repo=TrabajoFinal-HTMLyCSS-Digitalers&theme=tokyonight" alt="GitHub Stats"/></a>
-        <a href=https://github.com/juanNoli-03/Trabajo-Final-HTML-CSS-JS-Digitalers>
-      	<img src="https://github-readme-stats.vercel.app/api/pin/?username=juanNoli-03&repo=TrabajoFinal-HTML-CSS-JS-Digitalers&theme=tokyonight" alt="GitHub Stats"/></a>      
+      	<img src="https://github-readme-stats.vercel.app/api/pin/?username=juanNoli-03&repo=TrabajoFinal-HTMLyCSS-Digitalers&theme=tokyonight" alt="GitHub Stats"/></a> 
+	<a href=https://github.com/juanNoli-03/TrabajoFinal-HTML-CSS-JS-Digitalers>
+      	<img src="https://github-readme-stats.vercel.app/api/pin/?username=juanNoli-03&repo=TrabajoFinal-HTML-CSS-JS-Digitalers&theme=tokyonight" alt="GitHub Stats"/></a>   
       </p>
  </div>
 
