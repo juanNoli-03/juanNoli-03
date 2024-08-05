@@ -18,7 +18,7 @@
 
 <h2>💫 Acerca de Mi:</h2>
 
-- 🏡 **Argentina, Buenos Aires**
+- 🌎 **Argentina, Buenos Aires**
   
 - 🎓 Estudiante de **Licenciatura en Sistemas** en la ***Universidad Nacional de Lanus (UNLa)***
   
@@ -57,6 +57,24 @@
         <td><img height="40" src="https://skillicons.dev/icons?i=discord,blender"/></td>
     </tr>
  </table>
+
+<h2>📁 Proyectos:</h2>
+
+- 💻 <b>HTML - CSS - JS - REACT: </b>
+
+------------
+
+  <div>
+      <p align="left">
+	      <a href=https://github.com/juanNoli-03/TrabajoPractico1-Digitalers>
+      	<img src="https://github-readme-stats.vercel.app/api/pin/?username=juanNoli-03&repo=TrabajoPractico1-Digitalers&theme=tokyonight" alt="GitHub Stats"/></a>
+        <a href=https://github.com/juanNoli-03/TrabajoFinal-HTMLyCSS-Digitalers>
+      	<img src="https://github-readme-stats.vercel.app/api/pin/?username=juanNoli-03&repo=TrabajoFinal-HTMLyCSS-Digitalers&theme=tokyonight" alt="GitHub Stats"/></a>
+        <a href=https://github.com/juanNoli-03/Trabajo-Final-HTML-CSS-JS-Digitalers>
+      	<img src="https://github-readme-stats.vercel.app/api/pin/?username=juanNoli-03&repo=TrabajoFinal-HTML-CSS-JS-Digitalers&theme=tokyonight" alt="GitHub Stats"/></a>      
+      </p>
+ </div>
+
 
 <h2>📬 Conecta conmigo:</h2>
 <a href="https://www.linkedin.com/in/juan-manuel-noli/" target="_blank"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=LinkedIn&color=0A66C2&logo=LinkedIn&logoColor=FFFFFF&label="     
