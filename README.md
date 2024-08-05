@@ -88,6 +88,13 @@
  - 💻 <b>JAVA PURO:</b>
 
  ------------
+  
+  <div>
+      <p align="left">
+	<a href=https://github.com/juanNoli-03/ExamenParcial1-OrientacionAObjetosI>
+      	<img src="https://github-readme-stats.vercel.app/api/pin/?username=juanNoli-03&repo=ExamenParcial1-OrientacionAObjetosI&theme=tokyonight" alt="GitHub Stats"/></a>
+      </p>
+ </div>
 
  - 💻 <b>JAVA + HIBERNATE + SQL:</b>
 
