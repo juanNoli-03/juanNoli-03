@@ -81,6 +81,13 @@
 
 ------------
 
+<div>
+      <p align="left">
+	<a href=https://github.com/juanNoli-03/ABM-ListasVoid>
+      	<img src="https://github-readme-stats.vercel.app/api/pin/?username=juanNoli-03&repo=ABM-ListasVoid&theme=tokyonight" alt="GitHub Stats"/></a>
+      </p>
+ </div>
+
 - 💻 <b>PHP:</b>
 
 ------------
