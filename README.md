@@ -115,11 +115,12 @@
 
 ------------
 
-  <div>
+<div>
       <p align="left">
+	<a href=https://github.com/juanNoli-03/grupo-7-OO2-2024>
+      	<img src="https://github-readme-stats.vercel.app/api/pin/?username=juanNoli-03&repo=grupo-7-OO2-2024&theme=tokyonight" alt="GitHub Stats"/></a>
       </p>
  </div>
-
 
 <h2>📬 Conecta conmigo:</h2>
 <a href="https://www.linkedin.com/in/juan-manuel-noli/" target="_blank"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=LinkedIn&color=0A66C2&logo=LinkedIn&logoColor=FFFFFF&label="     
