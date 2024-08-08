@@ -86,7 +86,7 @@
 	<a href=https://github.com/juanNoli-03/ABM-ListasVoid-NumerosEnteros>
       	<img src="https://github-readme-stats.vercel.app/api/pin/?username=juanNoli-03&repo=ABM-ListasVoid-NumerosEnteros&theme=tokyonight" alt="GitHub Stats"/></a>
 	<a href=https://github.com/juanNoli-03/ABM-ListasVoid-Struct>
-      	<img src="https://github-readme-stats.vercel.app/api/pin/?username=juanNoli-03&repo=ABM-ListasVoid-Struct&theme=tokyonight" alt="GitHub Stats"/></a>
+      	<img src="https://github-readme-stats.vercel.app/api/pin/?username=juanNoli-03&repo=ABM-ListasVoid-StructPersona&theme=tokyonight" alt="GitHub Stats"/></a>
       </p>
  </div>
 
