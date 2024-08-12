@@ -117,6 +117,8 @@
       	<img src="https://github-readme-stats.vercel.app/api/pin/?username=juanNoli-03&repo=CountingSort-ConcurrenteYSecuencial&theme=tokyonight" alt="GitHub Stats"/></a>
 	<a href=https://github.com/juanNoli-03/Solucion1-ContarParesMatriz-Con-Hilos>
       	<img src="https://github-readme-stats.vercel.app/api/pin/?username=juanNoli-03&repo=Solucion1-ContarParesMatriz-Con-Hilos&theme=tokyonight" alt="GitHub Stats"/></a>
+	<a href=https://github.com/juanNoli-03/Solucion2-ContarParesMatriz-Con-HilosYSemaforos>
+      	<img src="https://github-readme-stats.vercel.app/api/pin/?username=juanNoli-03&repo=Solucion2-ContarParesMatriz-Con-HilosYSemaforos&theme=tokyonight" alt="GitHub Stats"/></a>
       </p>
  </div>
 
