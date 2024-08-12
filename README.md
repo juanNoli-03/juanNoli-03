@@ -113,6 +113,8 @@
       	<img src="https://github-readme-stats.vercel.app/api/pin/?username=juanNoli-03&repo=ExamenParcial1-OrientacionAObjetos-I&theme=tokyonight" alt="GitHub Stats"/></a>
 	<a href=https://github.com/juanNoli-03/ExamenParcial2-OrientacionAObjetos-I>
       	<img src="https://github-readme-stats.vercel.app/api/pin/?username=juanNoli-03&repo=ExamenParcial2-OrientacionAObjetos-I&theme=tokyonight" alt="GitHub Stats"/></a>
+	<a href=https://github.com/juanNoli-03/CountingSort-ConcurrenteYSecuencial>
+      	<img src="https://github-readme-stats.vercel.app/api/pin/?username=juanNoli-03&repo=CountingSort-ConcurrenteYSecuencial&theme=tokyonight" alt="GitHub Stats"/></a>
       </p>
  </div>
 
