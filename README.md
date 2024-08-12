@@ -115,6 +115,8 @@
       	<img src="https://github-readme-stats.vercel.app/api/pin/?username=juanNoli-03&repo=ExamenParcial2-OrientacionAObjetos-I&theme=tokyonight" alt="GitHub Stats"/></a>
 	<a href=https://github.com/juanNoli-03/CountingSort-ConcurrenteYSecuencial>
       	<img src="https://github-readme-stats.vercel.app/api/pin/?username=juanNoli-03&repo=CountingSort-ConcurrenteYSecuencial&theme=tokyonight" alt="GitHub Stats"/></a>
+	<a href=https://github.com/juanNoli-03/Solucion1-ContarParesMatriz-Con-Hilos>
+      	<img src="https://github-readme-stats.vercel.app/api/pin/?username=juanNoli-03&repo=Solucion1-ContarParesMatriz-Con-Hilos&theme=tokyonight" alt="GitHub Stats"/></a>
       </p>
  </div>
 
