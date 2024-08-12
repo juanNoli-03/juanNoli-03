@@ -96,6 +96,13 @@
 
 ------------
 
+<div>
+      <p align="left">
+	<a href=https://github.com/juanNoli-03/PaginaWeb-Panaderia-PHP>
+      	<img src="https://github-readme-stats.vercel.app/api/pin/?username=juanNoli-03&repo=PaginaWeb-Panaderia-PHP&theme=tokyonight" alt="GitHub Stats"/></a>
+      </p>
+ </div>
+
  - 💻 <b>JAVA PURO:</b>
 
  ------------
