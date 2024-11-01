@@ -34,7 +34,7 @@
   <table>
     <tr>
         <td><b>Backend:</b></td>
-        <td><img height="40"src="https://skillicons.dev/icons?i=c,php,java,spring,maven,hibernate"/></td>
+        <td><img height="40"src="https://skillicons.dev/icons?i=c,php,java,spring,maven,hibernate,postman"/></td>
     </tr>
    <tr>
         <td><b>Frontend:</b></td>
