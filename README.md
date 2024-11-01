@@ -137,6 +137,12 @@
  - 💻 <b>JAVA + SPRING + SQL:</b>
 
 ------------
+<div>
+      <p align="left">
+	<a href=https://github.com/juanNoli-03/API-Polizas-Bootcamp-BBVA>
+      	<img src="https://github-readme-stats.vercel.app/api/pin/?username=juanNoli-03&repo=API-Polizas-Bootcamp-BBVA&theme=tokyonight" alt="GitHub Stats"/></a>
+      </p>
+ </div>
 
 <div>
       <p align="left">
