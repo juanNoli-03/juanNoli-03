@@ -74,6 +74,8 @@
       	<img src="https://github-readme-stats.vercel.app/api/pin/?username=juanNoli-03&repo=Trabajo-Final-HTML-CSS-JS-Digitalers&theme=tokyonight" alt="GitHub Stats"/></a>
 	<a href=https://github.com/juanNoli-03/TrabajoPracticoFinal-React-Digitalers>
       	<img src="https://github-readme-stats.vercel.app/api/pin/?username=juanNoli-03&repo=TrabajoPracticoFinal-React-Digitalers&theme=tokyonight" alt="GitHub Stats"/></a>  
+	<a href=https://github.com/juanNoli-03/Front-API-Polizas-Bootcamp-BBVA>
+      	<img src="https://github-readme-stats.vercel.app/api/pin/?username=juanNoli-03&repo=Front-API-Polizas-Bootcamp-BBVA&theme=tokyonight" alt="GitHub Stats"/></a>  
       </p>
  </div>
 
